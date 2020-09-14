@@ -27,3 +27,4 @@ Don't use this in production!!!
 
 - [ ] Add dockerfile
 - [ ] Refactor
+- [ ] Fix crash upon failed regex match
